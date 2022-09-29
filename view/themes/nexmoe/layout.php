@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no" />
 		<title><?php e($title.' - '.config('site_name'));?></title>
+		<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 		<link rel="stylesheet" href="/statics/themes/nexmoe/css/forkGh.css" />
 		<!--Safari浏览器-->
 		<link rel="apple-touch-icon" sizes="64x64" href="/statics/themes/nexmoe/img/OneIndexM.svg">
