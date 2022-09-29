@@ -7,8 +7,8 @@
     <link rel="icon" href="/statics/themes/nexmoe/IMG/OneIndexM.svg">
 	<meta http-equiv="Access-Control-Allow-Origin" content="*" />
 	<title>OneIndex 系统管理</title>
-	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.3/css/mdui.min.css">
-	<script src="https://cdn.jsdelivr.net/gh/xieqifei/StaticsResources/oneindexn/mdui/mdui.min.js"></script>
+	<link href="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/css/mdui.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/js/mdui.min.js"></script>
 	<script>$ = mdui.JQ;</script>
 </head>
 <body class="mdui-drawer-body-left mdui-appbar-with-toolbar  mdui-theme-primary-indigo mdui-theme-accent-blue">

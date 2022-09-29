@@ -6,8 +6,8 @@
     <link rel="icon" href="/statics/themes/nexmoe/IMG/OneIndexM.svg">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title>OneIndex <?php e($title);?></title>
-	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.3/css/mdui.min.css">
-    <script src="/statics/themes/nexmoe/js/mdui.min.js"></script>
+	<link href="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/css/mdui.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/js/mdui.min.js"></script>
 		<style>
 		.mdui-appbar .mdui-toolbar{
 			height:56px;
