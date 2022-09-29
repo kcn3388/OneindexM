@@ -10,14 +10,14 @@
 		<!--Chrome等浏览器-->
 		<link rel="icon" href="/statics/themes/nexmoe/img/OneIndexM.svg">
         <!-- 视频Flv加载插件 -->
-        <script crossorigin="anonymous" integrity="sha512-49OFf+8jaHx4Vb7iFNb46Loq1pIxXlEYeVOQRIx0KLBRF4KSV6E7QK2Vw5r416TQDyBJW+DFh2CyTV7+gCWd6g==" src="https://lib.baomitu.com/flv.js/1.6.2/flv.min.js"></script>
+        <script src="https://cdn.bootcdn.net/ajax/libs/flv.js/1.6.2/flv.min.js"></script>
         <!-- 视频播放器加载插件 -->
-        <link crossorigin="anonymous" integrity="sha384-tLMkTWh2pfXNWGFlUS0w1TFtRG5xZ9lPWFOooj+vDDLIL+xBGQU/voDBY5XE2lVh" href="https://lib.baomitu.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
-        <script crossorigin="anonymous" integrity="sha384-gdGYZwHnfJM54evoZhpO0s6ZF5BQiybkiyW7VXr+h5UfruuRL/aORyw+5+HZoU6e" src="https://lib.baomitu.com/aplayer/1.10.1/APlayer.min.js"></script>
+        <link href="https://cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
+        <script src="https://cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
         <!-- 音乐加载插件 -->
         <!-- <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script> -->
         <script src="/statics/themes/nexmoe/Meting.min.js"></script>
-        <link crossorigin="anonymous" integrity="sha384-aF/tfXdmgYOOFoO7TFEEeEtmOViz6SCbCdzdCNWIrfjlQgOMDA8BWnzE6g3Cm96v" href="https://lib.baomitu.com/mdui/0.4.3/css/mdui.mini.css" rel="stylesheet">
+        <link href="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/css/mdui.min.css" rel="stylesheet">
 		<style>
 			body {
 				background-color: #f2f5fa;
@@ -141,7 +141,7 @@
 			}
 		</style>
 		<!-- <script src="https://cdn.jsdelivr.net/gh/xieqifei/StaticsResources/oneindexn/mdui/mdui.min.js"></script> -->
-        <script crossorigin="anonymous" integrity="sha384-GXQQyAWEQJOklZd/6CWH3BbffdVqZ85WoDiENXxSqLpjrdWzpX15CKmya8HIdM4r" src="https://lib.baomitu.com/mdui/0.4.3/js/mdui.min.js"></script>
+        <script src="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/js/mdui.min.js"></script>
 	</head>
 	<body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 		<a class="github-fork-ribbon" href="https://github.com/Mintimate/OneindexM" data-ribbon="Fork me on GitHub"
